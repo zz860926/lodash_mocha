@@ -1,6 +1,6 @@
 {
   "name": "lodash_mocha",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "docdash": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zz860926/lodash_mocha.git"
   }
 }
